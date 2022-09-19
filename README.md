@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/livinglifemeaning/ClipboardLp/tree/master
+- Live Site URL: https://livinglifemeaning.github.io/ClipboardLp/
 
 
 ### Built with
@@ -28,4 +28,4 @@ Users should be able to:
 ### Notes
 Estimated Time : 3hrs | Actual Time: 2.5hrs
 
-
+- Bet estimated time ! Centering isn't amazing but... 
