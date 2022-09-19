@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/livinglifemeaning.github.io/ClipboardLp/static/css/main.cdbc8490.css",
+    "main.js": "/livinglifemeaning.github.io/ClipboardLp/static/js/main.ac898973.js",
+    "static/media/image-computer.png": "/livinglifemeaning.github.io/ClipboardLp/static/media/image-computer.65db67db202be4e74616.png",
+    "static/media/bg-header-desktop.png": "/livinglifemeaning.github.io/ClipboardLp/static/media/bg-header-desktop.3d39ff8e4eec581d1f91.png",
+    "static/media/image-devices.png": "/livinglifemeaning.github.io/ClipboardLp/static/media/image-devices.7a9f93355333984b7941.png",
+    "static/media/bg-header-mobile.png": "/livinglifemeaning.github.io/ClipboardLp/static/media/bg-header-mobile.611a5565d2de8072be1f.png",
+    "static/media/icon-preview.svg": "/livinglifemeaning.github.io/ClipboardLp/static/media/icon-preview.9d260cdcabe46fdc423492bfe2e317cf.svg",
+    "static/media/icon-blacklist.svg": "/livinglifemeaning.github.io/ClipboardLp/static/media/icon-blacklist.00461066f8dc77314608696b24ffca29.svg",
+    "index.html": "/livinglifemeaning.github.io/ClipboardLp/index.html",
+    "static/media/icon-text.svg": "/livinglifemeaning.github.io/ClipboardLp/static/media/icon-text.72e88c25f84b1cf1d3f69a697f689f64.svg",
+    "static/media/logo.svg": "/livinglifemeaning.github.io/ClipboardLp/static/media/logo.99709bee9527fac7b703e0053be7feda.svg",
+    "main.cdbc8490.css.map": "/livinglifemeaning.github.io/ClipboardLp/static/css/main.cdbc8490.css.map",
+    "main.ac898973.js.map": "/livinglifemeaning.github.io/ClipboardLp/static/js/main.ac898973.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdbc8490.css",
+    "static/js/main.ac898973.js"
+  ]
+}
